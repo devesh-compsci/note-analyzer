@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Database files
+*.db
+
+# Image & document data
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Windows junk
+Thumbs.db
+
+# PyQt UI cache
+*.ui.py
+
