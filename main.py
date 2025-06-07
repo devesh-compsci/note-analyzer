@@ -1,5 +1,4 @@
-from core.ocr import extract_text
+from ui.window import run_app
 
-if __name__ == "__main__": # Executes only when run directly [not invoked]
-    text = extract_text("data/Picture1.png")
-    print(text)
+if __name__ == "__main__":
+    run_app()
