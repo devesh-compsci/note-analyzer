@@ -22,3 +22,7 @@ An offline desktop tool that helps students and researchers analyze handwritten 
 2. Install required packages:
 ```bash
 pip install -r requirements.txt
+```
+Other Dependencies~
+Tesseract [For OCR Functionality]
+link- <https://tesseract-ocr.github.io/tessdoc/Installation.html>
