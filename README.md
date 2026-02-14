@@ -27,6 +27,19 @@ Built with Python and PyQt5, this project combines OCR, PDF parsing, and extract
 
 ---
 
+## 🖥 Application Interface
+
+### OCR & Document Input
+![OCR Interface](assets/ui-ocr-view.png)
+
+### Generated Summary Output
+![Summary Output](assets/ui-summary-output.png)
+
+### PDF Processing Example
+![PDF Demo](assets/pdf-input-preview.png)
+
+---
+
 ## 🏗 Project Structure
 
 ```
