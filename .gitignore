@@ -9,9 +9,8 @@ __pycache__/
 # Database files
 *.db
 
-# Image & document data
-#*.png
-*.jpg
+# Image & document data#*.png
+#*.jpg
 *.jpeg
 *.pdf
 
