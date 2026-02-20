@@ -22,7 +22,7 @@ Built with Python and PyQt5, this project combines OCR, PDF parsing, and extract
   - TF-IDF
   - Cosine similarity
   - PageRank-based ranking
-- Fully offline
+- Fully offline [NLP Based]
 - No API keys required
 
 ---
